@@ -1,6 +1,6 @@
 # Jupter Notebook
 
-Code ini merupakan dasar-dasar dari Data Science and Machine Learning
+Code ini merupakan dasar-dasar dari Data Science and Machine Learning yang dapat di run melalui jupyter notebook
 
 Seluruh code berasal dari "Hands-On Data Science and Python Machine Learning" oleh Frank Kane"
 
